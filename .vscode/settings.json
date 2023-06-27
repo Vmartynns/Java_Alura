@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "dependencias/gson-2.10.1.jar"
+    ],
+    "java.project.sourcePaths": [
+        "src"
+    ]
+}
